@@ -29,7 +29,7 @@ function generateMarkDown(data){
         Test: ${data.test}
 
         ## Installation 
-        ${data.intallStep}
+        ${data.installStep}
 
         ## Feature
         ${data.feature}
